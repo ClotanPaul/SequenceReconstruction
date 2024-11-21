@@ -67,4 +67,5 @@ This configuration ensures a balance between model complexity and training stabi
 ## Results
 The final model achieved an average score of approximately **0.54** using the defined evaluation metric. This performance significantly exceeds the estimated baseline for a random sequence reconstruction model, which is around **0.19** with a standard deviation of **0.06**.
 
+The weights of the trained model are provided in the repository.
 
