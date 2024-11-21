@@ -64,6 +64,6 @@ Additionally, a **custom learning rate scheduler** is used to optimize training 
 This configuration ensures a balance between model complexity and training stability, allowing the model to effectively learn sequence reconstruction tasks.
 
 ## Results
-The final model achieved an average score of approximately **0.54** using the defined evaluation metric. This performance significantly exceeds the estimated baseline for a random sequence reconstruction model, which is around **0.19** with a standard deviation of **0.06**. The results highlight the model's ability to effectively learn and reconstruct sequences from scrambled inputs.
+The final model achieved an average score of approximately **0.54** using the defined evaluation metric. This performance significantly exceeds the estimated baseline for a random sequence reconstruction model, which is around **0.19** with a standard deviation of **0.06**.
 
 
