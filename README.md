@@ -12,6 +12,7 @@ To set up and run the project, execute the following commands in the provided no
 ```
 These commands install all necessary dependencies and ensure compatibility with the provided code.
 The project was developed and executed in Kaggle using a P100 GPU, which significantly reduced training time and allowed for more efficient experimentation.
+Additionally, a **requirements.txt** file was added to the project in order to be able to replicate the results outside of the kaggle environment.
 
 ## Dataset
 The Dataset was taken from HuggingFace and contains a large (3.5M+ sentence) knowledge base of generic sentences. The HuggingFace page of the dataset can be found <a href="https://huggingface.co/datasets/community-datasets/generics_kb" target="_blank">here</a>.
