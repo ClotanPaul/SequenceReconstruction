@@ -14,7 +14,7 @@ These commands install all necessary dependencies and ensure compatibility with 
 The project was developed and executed in Kaggle using a P100 GPU, which significantly reduced training time and allowed for more efficient experimentation.
 
 ## Dataset
-The Dataset was taken from HuggingFace and contains a large (3.5M+ sentence) knowledge base of generic sentences. The HuggingFace page of the dataset can be found at [this]((doc:linking-to-pages#anchor-links)) location.
+The Dataset was taken from HuggingFace and contains a large (3.5M+ sentence) knowledge base of generic sentences. The HuggingFace page of the dataset can be found at [link](doc:linking-to-pages#anchor-links).
 In the nodebook, the dataset is installed using the command:
 ```bash
 ds = load_dataset('generics_kb', trust_remote_code=True)['train']
